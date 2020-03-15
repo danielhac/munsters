@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/munsters/static/css/main.c9bc734b.chunk.css",
+    "main.js": "/munsters/static/js/main.7f620850.chunk.js",
+    "main.js.map": "/munsters/static/js/main.7f620850.chunk.js.map",
+    "runtime-main.js": "/munsters/static/js/runtime-main.81d82310.js",
+    "runtime-main.js.map": "/munsters/static/js/runtime-main.81d82310.js.map",
+    "static/js/2.cc8af93d.chunk.js": "/munsters/static/js/2.cc8af93d.chunk.js",
+    "static/js/2.cc8af93d.chunk.js.map": "/munsters/static/js/2.cc8af93d.chunk.js.map",
+    "index.html": "/munsters/index.html",
+    "precache-manifest.cb4d29a3b79976a8c91b32362e40deb8.js": "/munsters/precache-manifest.cb4d29a3b79976a8c91b32362e40deb8.js",
+    "service-worker.js": "/munsters/service-worker.js",
+    "static/css/main.c9bc734b.chunk.css.map": "/munsters/static/css/main.c9bc734b.chunk.css.map",
+    "static/js/2.cc8af93d.chunk.js.LICENSE.txt": "/munsters/static/js/2.cc8af93d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81d82310.js",
+    "static/js/2.cc8af93d.chunk.js",
+    "static/css/main.c9bc734b.chunk.css",
+    "static/js/main.7f620850.chunk.js"
+  ]
+}
